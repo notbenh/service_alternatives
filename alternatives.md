@@ -134,6 +134,12 @@ Suggested options:
   * Um...right. =)
   * Self-hosted  
 
+
+personal cloud
+-------------
+
+   * Owncloud
+
 hosting
 -------
 
