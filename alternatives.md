@@ -1,8 +1,9 @@
-Apparently 2013 is the year of shititting on your customers, and I've had
+Apparently 2013 is the year of shitting on your customers, and I've had
 enough. If I was to make a serious attempt to rewrite every service that does
 not already have an open alternative what would that world look like:
 
-[email]
+email
+-----
 
 Currently I am using Gmail, though shifting to a provided email system should
 be easy. IMAP is an open standard, it's just a matter of having a server that
@@ -18,7 +19,8 @@ Suggested options:
   * Fastmail
   * Self-hosted  
 
-[chat]
+chat
+----
 
 Fuck hangouts as a reliable way to continue with XMPP, though again it's an
 open sttndard so just finding a way to continue in this vein would ~should~ be
@@ -33,9 +35,10 @@ Suggested options:
   * DuckDuckGo XMPP
   * Self-hosted  
 
-[calendar]
+calendar
+--------
 
-There are currently no good web-based options for Google Calendar.
+There are currently no good web-based alternatives for Google Calendar.
 
 Requirements:
 
@@ -52,21 +55,23 @@ Suggested options:
   * Uh...I got nuthin'
   * Self-hosted?  
 
-[twitter]
+twitter
+-------
 
 Currently it's free enough that I have no real issues with continue with it
 but it might be time to get back on identi.ca or some self hosted solution.
 
 Requirements
 
-  * foo  
+  * ?
 
 Suggested options:
 
   * Indenti.ca
   * App.net  
 
-[google reader]
+google reader
+-------------
 
 Requirements:
 
@@ -92,7 +97,7 @@ Suggested options:
     * Minus: sharing is extra clunky (ie only for newsblur?)
     * Positive: it's up and running
     * Positive: it's still free
-    * Postivie: others are using it
+    * Positive: others are using it
   * The Old Reader ([http://theoldreader.com/)](http://theoldreader.com/))
     * Minus: idea of 'read' seems shakey
     * Minus: share seems to be TOR only?
@@ -103,7 +108,8 @@ Suggested options:
       * Minus: SLOW
       * Minus: Chief maintainer is a jerk to the community  
 
-[flickr]
+flickr
+------
 
 Requirements:
 
@@ -121,14 +127,15 @@ Requirements:
 
 nice to haves:
 
-  * foo  
+  * ?
 
 Suggested options:
 
   * Um...right. =)
   * Self-hosted  
 
-[hosting]
+hosting
+-------
 
 Here's the big one, currently I am on dreamhost. Nice service for something
 simple but I'm currently at the $7-ish a month and they don't allow for
@@ -145,5 +152,5 @@ Suggested options:
   * Self-hosted
   * dotcloud (allows for node.js hosting that opens up SFW, etherpad, etc)
   * heroku
-  * linnode  
+  * linode  
 
