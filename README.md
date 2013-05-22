@@ -175,3 +175,11 @@ Suggested options:
   * Digital Ocean
    
 
+
+### wiki testing
+
+Attempt to see if the Readme parser speaks enough wiki to make links: 
+
+* [[News]]
+ * [[Google Reader]]
+
