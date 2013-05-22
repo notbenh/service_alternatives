@@ -180,6 +180,5 @@ Suggested options:
 
 Attempt to see if the Readme parser speaks enough wiki to make links: 
 
-* [[News]]
- * [[Google Reader]]
+* [https://github.com/notbenh/service_alternatives/wiki#news](News)
 
