@@ -152,5 +152,7 @@ Suggested options:
   * Self-hosted
   * dotcloud (allows for node.js hosting that opens up SFW, etherpad, etc)
   * heroku
-  * linode  
+  * linode 
+  * OpenShift (Red Hat)
+   
 
