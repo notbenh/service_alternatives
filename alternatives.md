@@ -154,5 +154,6 @@ Suggested options:
   * heroku
   * linode 
   * OpenShift (Red Hat)
+  * Digital Ocean
    
 
