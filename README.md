@@ -160,8 +160,10 @@ Suggested options:
 			* SLOW
 			* Project lead is a jerk to the community and is proud of it
 
-flickr
+Photos
 ------
+
+The current go-to online service is [Flickr](http://flickr.com), but some of the recent moves by its parent company [Yahoo!](http://yahoo.com) have some people nervous.
 
 Requirements:
 
@@ -186,7 +188,13 @@ nice to haves:
 
 Suggested options:
 
-* Um...right. =)
+* [500px](http://500px.com)
+    * Pros:
+        * Good interface
+        * Organization options
+        * Creative Commons image licensing available
+    * Cons:
+        * Relatively new, no reputation yet
 * Self-hosted  
 
 
