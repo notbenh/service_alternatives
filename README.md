@@ -194,7 +194,7 @@ Suggested options:
         * Organization options
         * Creative Commons image licensing available
     * Cons:
-        * Relatively new, no reputation yet
+        * ???
 * Self-hosted  
 
 
