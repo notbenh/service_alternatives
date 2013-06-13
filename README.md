@@ -1,4 +1,4 @@
-service_alternatives
+service_alternatives [![Stories in Ready](http://githubkanban.herokuapp.com/huboard/notbenh/service-alternatives.png)](http://huboard.com/notbenh/service-alternatives/board)
 ====================
 
 _Alternatives to existing services that you find yourself using_
