@@ -151,6 +151,13 @@ Suggested options:
 	* Cons:
 		* Idea of 'read' seems shaky
 		* Share seems to be TOR only?
+* [newsbeuter](https://github.com/akrennmair/newsbeuter)
+        * Pros:
+                * CLI all the way (light & fast)
+                * mutt-ish
+        * Cons: 
+                * not the most robust solution to the stated requirements
+                * no share
 * Self-hosted
 	* [Tiny Tiny RSS](http://tt-rss.org/redmine/projects/tt-rss/wiki)
 		* Pros:
